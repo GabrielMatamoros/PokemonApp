@@ -6,7 +6,11 @@ using System.Threading.Tasks;
 using System.Data.SqlClient;
 
 namespace negocio
-{                     //Esta clase que vamos a crear a continuacion es para centralizar todas
+{               // COMENTANDO
+                //PARA PROBAR
+
+
+    //Esta clase que vamos a crear a continuacion es para centralizar todas
                       //las acciones que queremos realizar hacia la base de datos en pequenas funciones.
     class AccesoDatos // Creo los atributos de mi clase
     {
